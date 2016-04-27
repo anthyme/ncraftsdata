@@ -1,7 +1,7 @@
 {
-  "Version": 1.0,
+  "Version": "1.0",
   "Urls": {
-    "Sessions": "",
-    "Speakers": ""
+    "Sessions": "https://raw.githubusercontent.com/anthyme/ncraftsdata/master/Files/sessions.json",
+    "Speakers": "https://raw.githubusercontent.com/anthyme/ncraftsdata/master/Files/speakers.json"
   }
 }
