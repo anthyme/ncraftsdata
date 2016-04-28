@@ -97,8 +97,8 @@
   },
   {
     "Avatar": {
-      "IconBig": null,
-      "IconSmall": null
+      "IconBig": "http://ncrafts.io/speakers/FredyFadelNB.png",
+      "IconSmall": "http://ncrafts.io/speakers/FredyFadelNB.png"
     },
     "Company": "Aspectize",
     "Details": "From punch cards to Javascript, more than 35 years of daily programming.  Co-Founder of Aspectize (2007 forever) building more software with less code.",
@@ -673,8 +673,8 @@
   },
   {
     "Avatar": {
-      "IconBig": null,
-      "IconSmall": null
+      "IconBig": "http://ncrafts.io/speakers/JeanLaurenDeMorlhonNB.png",
+      "IconSmall": "http://ncrafts.io/speakers/JeanLaurenDeMorlhonNB.png"
     },
     "Company": "Docker",
     "Details": "Software Engineer @ Docker working on docker desktop. I drink tests for breakfast, write java, coffee & go code.",
