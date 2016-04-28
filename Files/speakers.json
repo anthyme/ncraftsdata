@@ -193,8 +193,8 @@
   },
   {
     "Avatar": {
-      "IconBig": null,
-      "IconSmall": null
+      "IconBig": "http://ncrafts.io/speakers/Felienne_Hermans2NB.jpg",
+      "IconSmall": "http://ncrafts.io/speakers/Felienne_Hermans2NB.jpg"
     },
     "Company": "Delft University of Technology",
     "Details": "Felienne is assistant professor at Delft University of Technology, where she makes programming for non-programmers more awesome. She built an **IDE for spreadsheets** in the form of smell detection, refactoring and unit testing tools for Excel, and has researched code smells and clone detection in the Scratch programming language for kids. \n\nShe is also one of the founders of Joy of Coding, a one day developer conference in Rotterdam, celebrating the love for programming.\n\nWhen not building programs that play board games or card games, she is probably dancing Lindy Hop or killing creeps in a tower defense game.",
@@ -273,8 +273,8 @@
   },
   {
     "Avatar": {
-      "IconBig": null,
-      "IconSmall": null
+      "IconBig": "http://ncrafts.io/speakers/ClémentBouillierNB.jpg",
+      "IconSmall": "http://ncrafts.io/speakers/ClémentBouillierNB.jpg"
     },
     "Company": "DevCrafting",
     "Details": "Software Craftsman",
@@ -577,8 +577,8 @@
   },
   {
     "Avatar": {
-      "IconBig": null,
-      "IconSmall": null
+      "IconBig": "http://ncrafts.io/speakers/CédricTran-XuanNB.jpg",
+      "IconSmall": "http://ncrafts.io/speakers/CédricTran-XuanNB.jpg"
     },
     "Company": "Streamdata.io",
     "Details": "Dev chez Streamdata.io, C&#233;dric participe &#224; l'&#233;laboration d'une plate-forme de push temps r&#233;el. Pendant son temps libre, il &#233;cume l'Alpes JUG, les meetups de Grenoble et quelques MOOC et il joue avec des technos Java / Scala et Web (Riot.js, AngularJS, EmberJS, etc). &#10;Il a &#233;galement fait quelques pr&#233;sentations &#224; BreizhCamp, Bdx.io et SoftShake et fait partie de l'organisation de SnowCamp.io, une conf&#233;rence technique &#224; Grenoble.",
@@ -593,8 +593,8 @@
   },
   {
     "Avatar": {
-      "IconBig": null,
-      "IconSmall": null
+      "IconBig": "http://ncrafts.io/speakers/Liz-KeoghNB.jpeg",
+      "IconSmall": "http://ncrafts.io/speakers/Liz-KeoghNB.jpeg"
     },
     "Company": null,
     "Details": "\r\nLiz Keogh is a Lean and Agile consultant based in London. She is a well-known blogger and international speaker, a core member of the BDD community and a contributor to a number of open-source projects including JBehave. She specializes in helping people use examples and stories to communicate, build, test and deliver value, particularly when faced with high risk and uncertainty.\r\n\r\nLiz's work covers topics as diverse as story-writing, haiku poetry, Cynefin and complexity thinking, effective personal feedback and OO development, and she has a particular love of people, language, and choices. She has a strong technical background with over 15 years experience in delivering value and coaching others to deliver, from small start-ups to global enterprises. Most of her work now focuses on Lean, Agile and organizational transformations, and the use of transparency, positive language, well-formed outcomes and safe-to-fail experiments in making change innovative, easy and fun.",
